@@ -355,14 +355,13 @@ header {
   font-weight: 700;
   font-size: 36px;
   line-height: 48px;
-  letter-spacing:;
+  letter-spacing: -1.2px;
   color: #161c2d;
 }
 .page3__p {
   font-family: "Gilroy-Regular";
   font-weight: 400;
   font-size: 19px;
-  leading-trim: NONE;
   line-height: 32px;
   letter-spacing: -0.2px;
   opacity: 0.7;
