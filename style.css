@@ -433,6 +433,8 @@ header {
   gap: 17px;
 }
 .page5__h2 {
+  font-family: "Gilroy-Bold";
+  letter-spacing: -1.2px;
   font-weight: 700;
   font-size: 36px;
   line-height: 48px;
