@@ -309,6 +309,11 @@ header {
   top: -30px;
   left: 45px;
 }
+.gap__25 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
 .page3__img2 {
   position: absolute;
   left: 0;
