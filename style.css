@@ -169,9 +169,11 @@ header {
   gap: 25px;
 }
 .page1__h2 {
+  font-family: "Gilroy-Bold";
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
+  letter-spacing: -1.2px;
 }
 .page1__with {
   font-family: "Gilroy-Regular";
@@ -186,6 +188,7 @@ header {
   gap: 30px;
 }
 .p__h2 {
+  font-family: "Gilroy-Bold";
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
