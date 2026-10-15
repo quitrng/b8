@@ -84,9 +84,11 @@ header {
   gap: 15px;
 }
 .main__h1 {
+  font-family: "Gilroy-Bold";
   font-weight: 700;
   font-size: 48px;
   line-height: 58px;
+  letter-spacing: -1.2px;
 }
 .main__p {
   font-family: "Gilroy-Regular";
@@ -170,10 +172,10 @@ header {
 }
 .page1__h2 {
   font-family: "Gilroy-Bold";
+  letter-spacing: -1.2px;
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
-  letter-spacing: -1.2px;
 }
 .page1__with {
   font-family: "Gilroy-Regular";
@@ -232,6 +234,8 @@ header {
   gap: 17px;
 }
 .page2__h2 {
+  font-family: "Gilroy-Bold";
+  letter-spacing: -1.2px;
   font-weight: 700;
   font-size: 36px;
   line-height: 48px;
@@ -310,9 +314,9 @@ header {
   left: 45px;
 }
 .gap__25 {
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
 }
 .page3__img2 {
   position: absolute;
@@ -346,9 +350,12 @@ header {
   gap: 15px;
 }
 .page3__h2 {
+  font-family: "Gilroy-Bold";
+  letter-spacing: -1.2px;
   font-weight: 700;
   font-size: 36px;
   line-height: 48px;
+  letter-spacing:;
   color: #161c2d;
 }
 .page3__p {
